@@ -1,0 +1,40 @@
+div, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    border: 30px;
+    margin: 30px;
+    border-style: solid;
+    width: 400px;
+}
+
+#black {
+    color: black;
+
+}
+
+#blue {
+    color: blue;
+}
+
+#red {
+    color: red;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#purple {
+    color: purple;
+}
+
+#orange {
+    color: orange;
+}
+ul {
+    list-style-type: none;
+}
